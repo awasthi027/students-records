@@ -1,0 +1,5 @@
+package com.studentinfo.models;
+
+public class StudentInfo {
+
+}

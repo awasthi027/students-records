@@ -1,0 +1,5 @@
+package com.studentinfo.constants;
+
+public class StudentRestController {
+
+}

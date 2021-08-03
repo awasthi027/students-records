@@ -1,0 +1,22 @@
+package com.studentinfo.apis;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
+
+import com.student.repository.StudentDOARepository;
+
+
+@SpringBootApplication
+@ComponentScan({"com.student.controllers","com.student.services", "com.student.repository","com.student.dto","com.student.models","com.student.utils"})
+@EnableMongoRepositories(basePackageClasses = StudentDOARepository.class)
+
+public class StudentinfoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(StudentinfoApplication.class, args);
+	}
+
+}

@@ -1,0 +1,15 @@
+package com.studentinfo.repositories;
+
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import com.student.models.StudentInfo;
+
+public interface StudentDOARepository extends MongoRepository<StudentInfo, String> {
+	
+	StudentInfo findByStudentNumber(long studentNumber);
+
+	StudentInfo findByEmail(String email);
+
+	List<StudentInfo> findAllByOrderByGpaDesc();
+}

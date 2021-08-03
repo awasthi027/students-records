@@ -1,0 +1,5 @@
+package com.studentinfo.dao;
+
+public class StudentInfoDTO {
+
+}

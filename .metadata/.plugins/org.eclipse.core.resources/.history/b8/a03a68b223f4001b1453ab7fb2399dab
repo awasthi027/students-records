@@ -1,0 +1,5 @@
+package com.studentinfo.repositories;
+
+public class StudentDOARepository {
+
+}

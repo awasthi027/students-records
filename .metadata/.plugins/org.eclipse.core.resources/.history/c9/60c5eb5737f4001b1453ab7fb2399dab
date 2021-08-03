@@ -1,0 +1,5 @@
+package com.studentinfo.controllers;
+
+public class StudentRestController {
+
+}

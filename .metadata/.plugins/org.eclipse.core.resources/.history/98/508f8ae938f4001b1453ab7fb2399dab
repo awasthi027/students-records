@@ -1,0 +1,25 @@
+package com.studentinfo.services;
+
+import com.student.models.StudentInfo;
+
+import java.util.List;
+
+
+
+public interface StudentAPIService {
+	
+	List<StudentInfo> findAll();
+
+	StudentInfo findByStudentNumber(long studentNumber);
+
+	StudentInfo findByEmail(String email);
+
+    List<StudentInfo> findAllByOrderByGpaDesc();
+
+
+    void deleteStudentById(String id);
+
+	StudentInfo saveOrUpdateStudent(StudentInfo student);
+	
+	StudentInfo updateStudentNumber(String  id, StudentInfo student);
+}
