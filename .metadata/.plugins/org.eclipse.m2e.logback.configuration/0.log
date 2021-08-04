@@ -660,3 +660,189 @@
 2021-08-03 14:55:59,385 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-03 14:55:59,386 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-08-03 14:55:59,386 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 15:52:27,805 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-03 15:52:29,954 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 15:52:29,954 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 15:52:29,958 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-03 15:52:29,987 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 15:52:29,992 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 15:52:29,992 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 15:52:29,992 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 16:11:53,391 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:11:53,391 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:11:53,392 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:11:53,392 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:11:53,395 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:11:53,395 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:11:53,395 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 16:11:56,692 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2021-08-03 16:11:57,608 [Worker-13: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2021-08-03 16:14:52,179 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:14:52,179 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:14:52,179 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:14:52,179 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:14:52,182 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:14:52,182 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:14:52,182 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 16:32:08,588 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:32:08,589 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:32:08,589 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:32:08,589 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:32:08,591 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:32:08,591 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:32:08,591 [Worker-10: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 16:35:27,998 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:35:27,999 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:35:27,999 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:35:27,999 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:35:28,001 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:35:28,001 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:35:28,001 [Worker-20: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 16:39:32,238 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:39:32,239 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:39:32,239 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:39:32,239 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 16:39:32,241 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 16:39:32,241 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 16:39:32,241 [Worker-24: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:00:13,447 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:00:13,448 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:00:13,448 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:00:13,448 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:00:13,450 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:00:13,450 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:00:13,450 [Worker-30: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:00:40,907 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:00:40,907 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:00:40,907 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:00:40,907 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:00:40,909 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:00:40,910 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:00:40,910 [Worker-23: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:03:47,901 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:03:47,902 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:03:47,902 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:03:47,902 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:03:47,903 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:03:47,904 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:03:47,904 [Worker-29: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:05:45,486 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:05:45,492 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:05:45,492 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:05:45,492 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:05:45,493 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:05:45,493 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:05:45,493 [Worker-28: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:06:30,258 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:06:30,258 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:06:30,258 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:06:30,258 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:06:30,260 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:06:30,260 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:06:30,260 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:08:19,034 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:08:19,035 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:08:19,035 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:08:19,036 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:08:19,037 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:08:19,038 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:08:19,038 [Worker-35: Launching Rerun StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:08:59,792 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:08:59,792 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:08:59,792 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:08:59,792 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:08:59,794 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:08:59,794 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:08:59,794 [Worker-33: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:12:02,082 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:12:02,082 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:12:02,082 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:12:02,083 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:12:02,084 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:12:02,084 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:12:02,085 [Worker-37: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:26:37,876 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:26:37,876 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:26:37,878 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-03 17:26:37,890 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:26:37,892 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:26:37,892 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:26:37,892 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:31:31,264 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:31:31,264 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:31:31,265 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-03 17:31:31,276 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:31:31,280 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:31:31,280 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:31:31,280 [Worker-46: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 17:49:17,939 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:49:17,940 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:49:17,940 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:49:17,940 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 17:49:17,942 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 17:49:17,942 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 17:49:17,942 [Worker-52: Launching StudentinfoApplicationTests] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 18:06:14,017 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 18:06:14,018 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 18:06:14,018 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 18:06:14,018 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 18:06:14,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 18:06:14,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 18:06:14,019 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-03 18:07:38,795 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 18:07:38,796 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 18:07:38,796 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 18:07:38,796 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-03 18:07:38,797 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-03 18:07:38,797 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-03 18:07:38,797 [Worker-66: Launching SmokeTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 09:27:59,993 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-04 09:28:34,052 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:28:34,054 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:28:34,057 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 09:28:34,086 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:28:34,091 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:28:34,091 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:28:34,091 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 09:38:25,552 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:38:25,552 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:38:25,555 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:38:25,556 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:38:25,563 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:38:25,563 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:38:25,564 [Worker-10: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 09:49:49,661 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:49:49,661 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:49:49,662 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:49:49,662 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:49:49,663 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:49:49,663 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:49:49,663 [Worker-23: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 09:52:04,743 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:52:04,744 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:52:04,744 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:52:04,744 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:52:04,745 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:52:04,745 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:52:04,746 [Worker-21: Launching HttpRequestTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 09:59:47,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:59:47,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:59:47,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:59:47,755 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 09:59:47,757 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 09:59:47,757 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 09:59:47,757 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 10:05:48,545 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 10:05:48,545 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 10:05:48,545 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 10:05:48,546 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 10:05:48,547 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 10:05:48,547 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 10:05:48,547 [Worker-32: Launching WebMockTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 10:07:22,092 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 10:07:22,092 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 10:07:22,092 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 10:07:22,092 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources

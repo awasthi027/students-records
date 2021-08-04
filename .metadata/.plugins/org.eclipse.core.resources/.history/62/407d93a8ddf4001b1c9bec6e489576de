@@ -1,0 +1,35 @@
+package com.studentinfo.apis;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.test.web.servlet.MockMvc;
+
+import com.studentinfo.controllers.StudentRestController;
+import com.studentinfo.services.StudentAPIService;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+@WebMvcTest(StudentRestController.class)
+public class WebMockTest {
+	
+	@Autowired
+	private MockMvc mockMvc;
+	
+	@MockBean
+	private StudentAPIService studentService;
+	
+	private String email = "tanuja.awasthi@gmail.com";
+	
+	@Test
+	public void greetingShouldReturnMessageFromService() throws Exception {
+	
+		this.mockMvc.perform(get("/students/byEmail/" + email)).andDo(print()).andExpect(status().isOk())
+				;
+	}
+
+}
+
+

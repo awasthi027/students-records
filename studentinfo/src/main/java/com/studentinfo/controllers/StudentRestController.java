@@ -75,6 +75,12 @@ public class StudentRestController {
 		return new ResponseEntity<Object>("Student deleted successfully", HttpStatus.OK);
 	}
 	
+	@DeleteMapping(value = "/deletebyId/{id}")
+	public ResponseEntity<?> deleteStudentById(@PathVariable String id) {
+		studentService.deleteStudentById(id);
+		return new ResponseEntity<Object>("Student deleted successfully", HttpStatus.OK);
+	}
+	
 	@PutMapping(value = "/updateStudentNumber/{id}")
     @ResponseStatus(HttpStatus.OK)
     public ResponseEntity<?>updateStudentNumber(@PathVariable(value = "id") String id,

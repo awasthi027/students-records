@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.List"/>
-    <fullyQualifiedTypeName name="com.studentinfo.respositories.StudentDOARepository"/>
     <fullyQualifiedTypeName name="com.studentinfo.services.StudentAPIService"/>
     <fullyQualifiedTypeName name="com.studentinfo.dao.StudentInfoDTO"/>
     <fullyQualifiedTypeName name="com.studentinfo.utils.Utils"/>
-    <fullyQualifiedTypeName name="com.studentinfo.models.StudentInfo"/>
     <fullyQualifiedTypeName name="com.studentinfo.constants.GenericConstants"/>
     <fullyQualifiedTypeName name="com.studentinfo.genericvalidator.GenericValidator"/>
+    <fullyQualifiedTypeName name="com.studentinfo.models.StudentInfo"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.studentinfo.respositories.StudentDOARepository"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.OrderAnnotation"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.TestMethodOrder"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.studentinfo.controllers.StudentRestController"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
 </qualifiedTypeNameHistroy>

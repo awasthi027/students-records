@@ -1,0 +1,33 @@
+package com.studentinfo.apis;
+
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.boot.web.server.LocalServerPort;
+
+import com.studentinfo.models.StudentInfo;
+
+
+public class HttpRequestTest {
+	
+	@LocalServerPort
+	private int port;
+	
+	@Autowired
+	private TestRestTemplate restTemplate;
+	
+	public String email = "tanuja.awasthi@gmail.com";
+	
+	@Test
+	public void greetingShouldReturnDefaultMessage() throws Exception {
+		StudentInfo info = this.restTemplate.getForObject("http://localhost:" + port + "/" + "students/byEmail/" + email,
+				StudentInfo.class);
+		assertNotNull(info.getEmail());
+		assertNotNull(info.getFirstName());
+		assertNotNull(info.getLastName());
+		assertNotNull(info.getCourseList());
+	}
+
+}
