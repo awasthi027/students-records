@@ -4,6 +4,9 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
 
@@ -57,5 +60,9 @@ public class Utils {
                 .map(entity -> map(entity, outCLass))
                 .collect(Collectors.toList());
     }
+
+
+
+
 
 }

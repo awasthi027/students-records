@@ -1004,3 +1004,87 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-08-04 10:07:22.384
 !MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:37:58.467
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:38:02.413
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:38:08.623
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:38:09.897
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:39:18.941
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:39:19.089
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:40:02.846
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:40:02.963
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:40:18.907
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:41:10.083
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:41:10.103
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:41:10.140
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:41:11.674
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:51:48.739
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 14:51:49.230
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY org.eclipse.jface 2 0 2021-08-04 14:51:49.282
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-04 14:51:49.282
+!MESSAGE A conflict occurred for COMMAND+SHIFT+C:
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3dc465e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(COMMAND+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45e47a59,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY Activator 1 0 2021-08-04 14:52:02.881
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY Activator 1 0 2021-08-04 15:00:05.439
+!MESSAGE Has main method computation for project 'studentinfo'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 15:00:05.614
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LRyQBsTu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 15:00:05.614
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.LRyQBsTu
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 15:00:05.615
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-04 15:00:05.615
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.LRyQBsTu => OK

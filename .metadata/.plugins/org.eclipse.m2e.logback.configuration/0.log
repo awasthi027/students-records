@@ -846,3 +846,39 @@
 2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-08-04 10:07:22,094 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 14:39:19,069 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:39:19,070 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:39:19,073 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 14:39:19,083 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 14:39:19,086 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:39:19,086 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:39:19,086 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 14:40:02,955 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:40:02,955 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:40:02,956 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 14:40:02,956 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 14:40:02,960 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:40:02,960 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:40:02,960 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 14:41:10,846 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.studentinfo.apis:studentinfo:0.0.1-SNAPSHOT @ /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/pom.xml.
+2021-08-04 14:41:11,415 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:41:11,416 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:41:11,419 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 14:41:11,419 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-04 14:41:11,426 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:41:11,427 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:41:11,427 [Worker-37: Launching studentinfo - StudentinfoApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 14:51:48,853 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:51:48,854 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:51:48,854 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 14:51:48,855 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 14:51:48,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 14:51:48,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 14:51:48,856 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources
+2021-08-04 15:00:05,554 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 15:00:05,555 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 15:00:05,555 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 15:00:05,555 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-04 15:00:05,557 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-04 15:00:05,557 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-08-04 15:00:05,558 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ashishawasthi/Documents/Plateform/RandD/students-records/studentinfo/src/test/resources

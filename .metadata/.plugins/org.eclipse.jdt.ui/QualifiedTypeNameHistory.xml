@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="com.studentinfo.utils.Utils"/>
     <fullyQualifiedTypeName name="com.studentinfo.constants.GenericConstants"/>
     <fullyQualifiedTypeName name="com.studentinfo.genericvalidator.GenericValidator"/>
-    <fullyQualifiedTypeName name="com.studentinfo.models.StudentInfo"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -13,7 +12,15 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.OrderAnnotation"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.TestMethodOrder"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Order"/>
-    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.web.server.LocalServerPort"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.RestTemplate"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.web.client.TestRestTemplate"/>
+    <fullyQualifiedTypeName name="com.studentinfo.models.StudentInfo"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.context.SpringBootTest"/>
     <fullyQualifiedTypeName name="com.studentinfo.controllers.StudentRestController"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest"/>
+    <fullyQualifiedTypeName name="org.springframework.test.web.servlet.MockMvc"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.test.mock.mockito.MockBean"/>
 </qualifiedTypeNameHistroy>

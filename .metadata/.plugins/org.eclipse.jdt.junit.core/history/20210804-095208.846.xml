@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="HttpRequestTest" project="studentinfo" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.studentinfo.apis.HttpRequestTest" time="0.733" displayname="HttpRequestTest" uniqueid="[engine:junit-jupiter]/[class:com.studentinfo.apis.HttpRequestTest]">
-    <testcase name="greetingShouldReturnDefaultMessage" classname="com.studentinfo.apis.HttpRequestTest" time="0.732" displayname="greetingShouldReturnDefaultMessage()" uniqueid="[engine:junit-jupiter]/[class:com.studentinfo.apis.HttpRequestTest]/[method:greetingShouldReturnDefaultMessage()]"/>
-  </testsuite>
-</testrun>
