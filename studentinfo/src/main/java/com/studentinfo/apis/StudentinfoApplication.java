@@ -10,7 +10,8 @@ import com.studentinfo.respositories.StudentDOARepository;
 
 
 @SpringBootApplication
-@ComponentScan({"com.studentinfo.controllers","com.studentinfo.services", "com.studentinfo.respositories","com.studentinfo.dao","com.studentinfo.models","com.studentinfo.utils", "com.studentinfo.constants"})
+@ComponentScan({"com.studentinfo.controllers","com.studentinfo.services", "com.studentinfo.respositories","com.studentinfo.dao","com.studentinfo.models",
+		"com.studentinfo.utils", "com.studentinfo.constants","com.studentinfo.enums"})
 @EnableMongoRepositories(basePackageClasses = StudentDOARepository.class)
 
 public class StudentinfoApplication {

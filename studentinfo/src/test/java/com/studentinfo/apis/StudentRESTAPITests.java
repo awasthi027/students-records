@@ -25,27 +25,23 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.MvcResult;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-
-
-import static org.mockito.ArgumentMatchers.any;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.BDDMockito.given;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
-import org.springframework.test.web.servlet.MvcResult;
-import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import static org.mockito.Mockito.when;
-
-
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
+import static org.hamcrest.Matchers.*;
 
 @RunWith(SpringRunner.class)
 @ComponentScan(basePackages = {"com.studentinfo"})
@@ -62,10 +58,8 @@ class StudentRESTAPITests {
     private List<StudentInfo> studentList;
 
     private  String email = "ashish.awasthi@gmail.com";
-
-    @BeforeEach
-    void setUp() {
-        this.studentList = new ArrayList<>();
+    private  String baseURI = "/students/";
+    private StudentInfo createTestStudentObject() {
         StudentInfo info = new StudentInfo();
         info.setFirstName("Ashish");
         info.setLastName("Awasthi");
@@ -78,20 +72,44 @@ class StudentRESTAPITests {
                 "Social Science");
         info.setCourseList(courseList);
         info.setGpa((float) 1.0);
-        this.studentList.add(info);
+        return  info;
+    }
+
+    @BeforeEach
+    void setUp() {
+        this.studentList = new ArrayList<>();
+        this.studentList.add(this.createTestStudentObject());
     }
 
     @Test
     void testFetchAllStudents() throws Exception {
-      given(studentAPIService.findAll()).willReturn(studentList);
-      this.mockMvc.perform(get("/students/")).andExpect(status().isOk());
+        given(studentAPIService.findAll()).willReturn(studentList);
+        this.mockMvc.perform(get(baseURI)).andExpect(status().isOk())
+        .andExpect(jsonPath("$", hasSize(1)))
+                .andExpect(jsonPath("$[0].firstName", is("Ashish")));
+
+    }
+
+    @Test
+    void testValidateStudentInfo() throws Exception {
+        given(studentAPIService.findAll()).willReturn(studentList);
+        mockMvc.perform(get(baseURI )
+                        .contentType(MediaType.APPLICATION_JSON))
+                .andExpect(status().isOk())
+                .andExpect(content().contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
+                .andExpect(jsonPath("$[0].firstName",is("Ashish")));
     }
     
     @Test
     void testGetStudentByEmail() throws Exception {
-         StudentInfo info = new StudentInfo();
-        String uri = "/students/byEmail/{email}";
+         StudentInfo info = this.createTestStudentObject();
+        String uri = baseURI + "byEmail/{email}";
         when(studentAPIService.findByEmail(email)).thenReturn(info);
+        mockMvc.perform(get(uri, email )
+                        .contentType(MediaType.APPLICATION_JSON))
+                .andExpect(status().isOk())
+                .andExpect(content().contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
+                .andExpect(jsonPath("$.firstName",is("Ashish")));
     }
 
      @Test
@@ -117,23 +135,15 @@ class StudentRESTAPITests {
                       .andExpect(content().string(GenericConstants.STUDENT_RECORD_SAVED));
 
      }
-     @Test
-     void  deleteStudentRecordsById() throws  Exception {
-           String uri = "/students/deletebyId/{id}";
-          ).thenReturn("Student is deleted"));
 
-
-     }
-
-
-
-
-
-
-
-
-
-
-
+    @Test
+    public void testDeleteStudentById() throws Exception {
+        String uri = baseURI + "deletebyId/610a12e8f9fb2c72f9b0b558";
+        MvcResult mvcResult = mockMvc.perform(MockMvcRequestBuilders.delete(uri)).andReturn();
+        int status = mvcResult.getResponse().getStatus();
+        assertEquals(200, status);
+        String content = mvcResult.getResponse().getContentAsString();
+        assertEquals(content, GenericConstants.STUDENT_INFO_DELETE);
+    }
 
 }

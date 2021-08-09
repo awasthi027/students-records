@@ -6,7 +6,6 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import java.util.List;
 
 
-
 @Document(collection = "students")
 
 public class StudentInfo {
@@ -24,7 +23,6 @@ public class StudentInfo {
     private List<String> courseList;
     
 	private float gpa;
-
 
 	public StudentInfo(String firstName, String lastName, long studentNumber, String email, List<String> courseList,
 			float gpa) {

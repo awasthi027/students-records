@@ -72,13 +72,13 @@ public class StudentRestController {
 	@DeleteMapping(value = "/delete/{studentNumber}")
 	public ResponseEntity<?> deleteStudentByStudentNumber(@PathVariable long studentNumber) {
 		studentService.deleteStudentById(studentService.findByStudentNumber(studentNumber).getId());
-		return new ResponseEntity<Object>("Student deleted successfully", HttpStatus.OK);
+		return new ResponseEntity<Object>(GenericConstants.STUDENT_INFO_DELETE, HttpStatus.OK);
 	}
 	
 	@DeleteMapping(value = "/deletebyId/{id}")
 	public ResponseEntity<?> deleteStudentById(@PathVariable String id) {
 		studentService.deleteStudentById(id);
-		return new ResponseEntity<Object>("Student deleted successfully", HttpStatus.OK);
+		return new ResponseEntity<Object>(GenericConstants.STUDENT_INFO_DELETE, HttpStatus.OK);
 	}
 	
 	@PutMapping(value = "/updateStudentNumber/{id}")
