@@ -9,6 +9,7 @@ import com.studentinfo.utils.ResponsePayload;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestClientResponseException;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -121,10 +122,18 @@ public class TODORestController {
         RestTemplate restTemplate = new RestTemplate();
         payload.setCode("Success");
         payload.setMessage("Received News");
-        Object response = restTemplate.getForObject(uri, NewsSummary.class);
-        payload.setObject( payload.setObject(response));
+        System.out.println("############" + uri );
+        try {
+            payload.setObject(payload.setObject(restTemplate.getForObject(uri, NewsSummary.class)));
+         } catch (RestClientResponseException e) {
+            return ResponseEntity
+                    .status(e.getRawStatusCode())
+                    .body(e.getResponseBodyAsString());
+        }
         return new ResponseEntity<>(payload,HttpStatus.OK);
    }
+
+
 
 
 }
