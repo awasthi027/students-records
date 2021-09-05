@@ -42,8 +42,7 @@
 			<version>1.8.4</version>
 			<scope>test</scope>
 		</dependency>
-		
-		
+
 		  <dependency>
             <groupId>org.modelmapper</groupId>
             <artifactId>modelmapper</artifactId>
@@ -73,6 +72,12 @@
 			<artifactId>lombok</artifactId>
 			<version>1.18.20</version>
 			<scope>provided</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-ui</artifactId>
+			<version>1.5.10</version>
 		</dependency>
 
 	</dependencies>

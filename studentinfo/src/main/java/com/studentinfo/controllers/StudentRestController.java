@@ -3,6 +3,8 @@ package com.studentinfo.controllers;
 import java.util.List;
 
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -30,11 +32,19 @@ import com.studentinfo.utils.Utils;
 @RequestMapping("/students")
 public class StudentRestController {
 
+
 	@Autowired
 	StudentAPIService studentService;
 
+	Logger logger = LoggerFactory.getLogger(StudentRestController.class);
+
 	@GetMapping(value = "/")  
 	public List<StudentInfoDTO> getAllStudents() {
+		logger.error("ERROR Inside the students list method");
+		logger.warn("Warnning Inside the students list method");
+		logger.info("Info Inside the students list method");
+		logger.debug("Info Inside the students list method");
+		logger.trace("trace Inside the students list method");
 		return Utils.mapAll(studentService.findAll(), StudentInfoDTO.class);
 	}
 
